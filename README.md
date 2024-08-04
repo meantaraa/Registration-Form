@@ -27,8 +27,7 @@ A simple and responsive registration form built using HTML, CSS, Node.js, Expres
 1. Open your web browser and navigate to http://localhost:3000 to view the registration form.
 2. Fill out the form and submit it. The data will be stored in your MongoDB database.
 
-# License
-This project is licensed under the MIT License.
+
 
 # Contributing
 1. Fork the repository.
